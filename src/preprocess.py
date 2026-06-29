@@ -32,7 +32,7 @@ def get_deepfilternet_model():
     global _df_model
     if _df_model is None:
         try:
-            from deepfilternet import DeepFilterNet3, df
+            from df import DeepFilterNet3, df
             _df_model = DeepFilterNet3()
             logger.info("DeepFilterNet3 model loaded.")
             # We also need to expose the df module for later use

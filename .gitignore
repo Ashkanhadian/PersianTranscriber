@@ -1,6 +1,9 @@
 .venv/
 venv/
 env/
+venv_pyannote/
+
+.env
 
 Data/
 *.wav
