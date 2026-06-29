@@ -1,4 +1,6 @@
 Data/*
 Models/*
-pipeline*.*
 .venv/
+requirements.txt
+pipeline_with_speaker_diarization.png
+pipeline.png
