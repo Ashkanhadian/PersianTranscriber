@@ -2,3 +2,4 @@ Data/*
 Models/*
 pipeline*.*
 .venv/
+requirements.txt
